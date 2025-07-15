@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-of-instagram
 This project demonstrates a complete Exploratory Data Analysis (EDA) workflow on Instagram post reach data using Python. It includes interactive visualizations and statistical insights to help understand audience behavior and content performance.
 
-## 🔍 What You’ll Learn
+## Key Insights
 
 - Data overview and cleaning
 - Visualizing impressions, reach, likes, saves, follows, and profile visits
@@ -11,7 +11,7 @@ This project demonstrates a complete Exploratory Data Analysis (EDA) workflow on
 - Word cloud of hashtags
 - Hashtag impact on likes and impressions
 
-## 🧰 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
